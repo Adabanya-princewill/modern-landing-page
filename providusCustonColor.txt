@@ -1,0 +1,17 @@
+ extend: {
+      colors: {
+        "providus-backgroundWhite": "#FFFFFF",
+        "providus-backgroundGray": "#EFF1F1",
+        "providus-headGrayBlue": "#2E434E",
+        "providus-paraGrey": "#6D7B83",
+        "providus-yellow": "#FDB813",
+        "providus-backgroundNavLink": "#707070",
+        "providus-navBackground": "#6D7B8315",
+        "providus-floatBlock": "#FDB81329",
+        "providus-iconGrey": "#2E434E29",
+        "providus-iconYellow": "#FDB8132B", 
+        "providus-cardBackground": "#6D7B8329",
+        "providus-iconYellow": "#7F5C0A", 
+         
+      }
+     },
